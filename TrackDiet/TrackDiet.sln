@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackDiet", "TrackDiet\TrackDiet.csproj", "{2D2FC061-BA24-44D7-98A2-F6D3B93ECE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D2FC061-BA24-44D7-98A2-F6D3B93ECE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2FC061-BA24-44D7-98A2-F6D3B93ECE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2FC061-BA24-44D7-98A2-F6D3B93ECE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2FC061-BA24-44D7-98A2-F6D3B93ECE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1CB63CA-05B0-4B22-9F3C-6E736D92A654}
+	EndGlobalSection
+EndGlobal
